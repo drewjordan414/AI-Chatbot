@@ -23,4 +23,4 @@ Follow the directions below to get your API key
 <img width="637" alt="Screenshot 2023-04-03 at 2 00 21 PM" src="https://user-images.githubusercontent.com/129786079/229602259-37102254-e281-4580-8e35-ffb33d9fb5f8.png">
 
 # License
-https://opensource.org/license/mit/
+[MIT](https://opensource.org/license/mit/)
