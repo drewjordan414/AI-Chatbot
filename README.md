@@ -11,7 +11,7 @@ Follow the directions below to get your API key
   - Note that once you create your key it will show your key only ONCE
   - Save your key in a safe place!
  
- # Useage 
+ # Usage 
  - To use this program, download the zip file or clone the repository 
  - Install the required dependencies by running pip install -r requirements.txt
  - Enter your API key into the terminal window. You wont be able to proceed until you do
