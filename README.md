@@ -17,10 +17,12 @@ Follow the directions below to get your API key
  - Run the program using the following command "python3 ai.py"
  - Enter your API key into the terminal window. You wont be able to proceed until you do
 
+# License
+[MIT](https://opensource.org/license/mit/)
+
 # Photos
 <img width="572" alt="Screenshot 2023-04-03 at 1 57 09 PM" src="https://user-images.githubusercontent.com/129786079/229602344-3bd1bfcd-a009-447b-a3e9-218cfa8c0f93.png">
 
 <img width="637" alt="Screenshot 2023-04-03 at 2 00 21 PM" src="https://user-images.githubusercontent.com/129786079/229602259-37102254-e281-4580-8e35-ffb33d9fb5f8.png">
 
-# License
-[MIT](https://opensource.org/license/mit/)
+
