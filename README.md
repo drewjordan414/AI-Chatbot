@@ -13,7 +13,8 @@ Follow the directions below to get your API key
  
  # Usage 
  - To use this program, download the zip file or clone the repository 
- - Install the required dependencies by running pip install -r requirements.txt
+ - Install the required dependencies by running "pip install -r requirements.txt"
+ - Run the program using the following command "python3 ai.py"
  - Enter your API key into the terminal window. You wont be able to proceed until you do
 
 # Photos
