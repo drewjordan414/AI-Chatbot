@@ -15,6 +15,7 @@ Follow the directions below to get your API key
  - To use this program, download the zip file or clone the repository 
  - Install the required dependencies by running "pip install -r requirements.txt"
  - Run the program using the following command "python3 ai.py"
+    - make sure you are in the same directory as the script when running the command
  - Enter your API key into the terminal window. You wont be able to proceed until you do
 
 # License
